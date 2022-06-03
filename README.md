@@ -29,9 +29,19 @@ This project involved cleaning the datasets for relevant information pertaining 
   - Half of the top 20 movies are classified as a action, adventure, and sci-fi genre (ie. Avengers: Infinity War, Jurassic World, Black Panther)
 
 ## Recommendations
+Microsoft Studios should look to produce films that have the following characteristics and target the following demographics:
 
+- 90 minute movie runtimes generally yield a favorable rating of 7/10
+- Produce movies that focus on action, adventure, or sci-fi. These genres produced over half of the top 20 most profitable movies. 
+- Target the student or kid demographic. More people have more time during the summer and holiday seasons and are more inclined to go to a theater. More people = greater profit for the studio. 
+- Market the movie worldwide. Worldwide movies generate far more in profit than when consumed domestically. 
 
 ## Next Steps
+While the data we have available can help us measure previous movie information, there are some additional steps we can take to provide a more detailed analysis. 
+
+- Continue to collect data for movies post 2020. Are we starting to see the movie and theater industry recover? Are people returning back to the theater?
+- Adjust movie data for inflation. While measuring profits can be helpful, we can get a better relative sense of monetary performance in the box office when adjusting profits for inflation. 
+- Collect additional data to help explain cyclical cycles in the movie industry over the years. Could there be other reasons why we see spikes in some years where movie profits were exceptionally high? 
 
 ## Repository Structure
 
