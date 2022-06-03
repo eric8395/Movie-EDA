@@ -37,6 +37,7 @@ This project involved cleaning the datasets for relevant information pertaining 
 <p align="center">
   <img src = "https://github.com/eric8395/Movie-EDA/blob/main/images/movieprofits_by_month.png" width="700" height="400">
 </p> 
+
 - Movies make the most money at the box office worldwide than compared to domestic box office profits. Summer and winter holiday months generate the greatest average profit. 
 
 <p align="center">
