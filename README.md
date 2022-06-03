@@ -20,7 +20,16 @@ This project involved cleaning the datasets for relevant information pertaining 
 
 ## Results
 
+- Most movies are normally distributed with a runtime of 90 minutes and have an average IMDB rating of 7 out of 10. 
+- Movies with greater amount of ratings, generally, have a higher IMDB rating. 
+- The most frequently occuring movie genre (since the 1900s) is the 'drama'. Though, this does not indicate the most popular genre. 
+- Movies make the most money at the box office worldwide than compared to domestic box office profits. Summer and winter holiday months generate the greatest average profit. 
+- Average yearly movie profits has been cyclical since the 1960s. There has been an exponential rise in worldwide yearly movie profits in the 2010s. The 2020 Pandemic greatly impacted the movie industry where losses were made. 
+- The top 20 most profitable movies were all released post 2010. 
+  - Half of the top 20 movies are classified as a action, adventure, and sci-fi genre (ie. Avengers: Infinity War, Jurassic World, Black Panther)
+
 ## Recommendations
+
 
 ## Next Steps
 
